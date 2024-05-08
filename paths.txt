@@ -1,0 +1,3 @@
+/images/run_on_this
+/model/flownets_EPE1.951.pth.tar
+python run_inference.py ./images/run_on_this ./model/flownets_EPE1.951.pth.tar

@@ -1,0 +1,9 @@
+torch>=1.2
+torchvision
+numpy
+tensorboard
+imageio
+argparse
+path
+tqdm
+scipy
